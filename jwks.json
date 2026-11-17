@@ -1,13 +1,12 @@
 {
     "keys": [
         {
-            "kty": "EC",
+            "kty": "RSA",
             "use": "sig",
-            "alg": "ES384",
-            "kid": "epic-openemr-np-2026",
-            "crv": "P-384",
-            "x": "Cjq2NsgpZZbiJoxxa9-wuEwVe91-VYzGvwUq4VzrSwxIVtjM9Q2t7sMs-ugpF-2W",
-            "y": "4rIiGIp-PUK5GlmHLtCIKFU3G6IQdCidRAFt7H7dzWdyCsbhyfPd8mxIKY0D8vzp"
+            "alg": "RS384",
+            "kid": "LnpEom_YuYvfJ_Iv6al-W1l6pvx-9WmKMKAzKZJ-I_Q",
+            "n": "k0aAhQo49ri5ljDv7fFD9VvaFYPEBIslkDgHGpOIm1NduKzAEiZpELGWbAJwQQJZUe8PeQyr7jSroqD5zhU3lXCbaegTBTwzwHncUlgFa5zk77puZrp9UISwcLvluWax-M3vcoaJewBq4H9XzFXvqHFWJPvXnre4GpkiJ5Cnc5xVXPiRlr6h8JjanjiJfL1s-YnV-SuBjs0pOXTbQrj8OTILKdPrkTIKicvI6oI4OJ5BZM1O8gDXQfRbupFlazNztosZ59W99ofyN5ZYdL2gRrv3F2dR7synSnQer3rUW3Mktt7wqcsv0a-jhxY_Hp6EPS7p3VoVV6DHgM-hNV8Z-w",
+            "e": "AQAB"
         }
     ]
 }
