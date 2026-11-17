@@ -1,0 +1,13 @@
+{
+    "keys": [
+        {
+            "kty": "EC",
+            "use": "sig",
+            "alg": "ES384",
+            "kid": "epic-openemr-np-2026",
+            "crv": "P-384",
+            "x": "Cjq2NsgpZZbiJoxxa9-wuEwVe91-VYzGvwUq4VzrSwxIVtjM9Q2t7sMs-ugpF-2W",
+            "y": "4rIiGIp-PUK5GlmHLtCIKFU3G6IQdCidRAFt7H7dzWdyCsbhyfPd8mxIKY0D8vzp"
+        }
+    ]
+}
